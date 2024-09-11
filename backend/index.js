@@ -1,3 +1,4 @@
+const express = require ("express")
 const connection= require("./database/connection")
 
 //conexion a db
